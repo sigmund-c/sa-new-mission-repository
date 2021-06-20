@@ -1,8 +1,8 @@
-title=
+title=Test Mission
 coverImage=
-webSummary=
-dueDate=Sat Sep 13 275760 08:00:00 GMT+0800 (Singapore Standard Time)
-type=
-id=
+webSummary=This is a sample Mission!
+dueDate=Sat Jun 26 2021 00:00:00 GMT+0800 (Singapore Standard Time)
+type=Wait there's a mission type?
+id=6e696365
 sourceVersion=1
 reading=
